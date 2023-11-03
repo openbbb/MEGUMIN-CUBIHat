@@ -1,0 +1,27 @@
+[
+  {
+    "guid": {
+      "a": "c1680e64-6eeb-0e43-abf8-d567c238a8ea",
+      "b": ""
+    },
+    "extraType": "ResItemMaterialOmtl",
+    "name": "megmin_hat",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Material",
+    "version": "0.3.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "skinObjGuid": "Guid(5170034665576792726, 2265717562258101654)",
+    "references": [
+      {
+        "propertyName": "_AlbedoTexture",
+        "guid": "85ccbf7d-21ed-e89e-fd93-cdd7597ee5c9"
+      },
+      {
+        "propertyName": "_OpacityTexture",
+        "guid": "00000000-0000-0000-0000-000000000021"
+      }
+    ]
+  }
+]

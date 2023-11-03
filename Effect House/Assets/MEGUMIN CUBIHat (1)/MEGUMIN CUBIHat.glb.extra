@@ -1,0 +1,28 @@
+[
+  {
+    "guid": {
+      "a": "69eee590-2f3a-fb2d-4df8-13ceddf5ac82",
+      "b": ""
+    },
+    "extraType": "ResItemAssimpAsset",
+    "name": "MEGUMIN CUBIHat",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Model",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "importAnimation": true,
+    "importVertexColor": false,
+    "importBlendshape": true,
+    "importNormalTangentBinormal": true,
+    "regenerateNormalTangentBinormal": true,
+    "materialsGUIDs": [
+      "c1680e64-6eeb-0e43-abf8-d567c238a8ea"
+    ],
+    "meshGUIDs": [
+      "e4c82016-0dfc-2e6f-5fb5-fd691d4d8303"
+    ],
+    "animazGUIDs": []
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "guid": {
+      "a": "607aaf32-a070-100f-5554-f8d40b877c88",
+      "b": ""
+    },
+    "extraType": "ResItemFolder",
+    "name": "MEGUMIN CUBIHat (1)",
+    "expandInPanel": true,
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "objGuid": ""
+  }
+]
